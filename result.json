@@ -1,0 +1,233 @@
+{
+  "item_info": {
+    "item_name": "家门钥匙",
+    "item_material": "金属",
+    "item_element": "金",
+    "item_description": "一串有三把钥匙的钥匙串，有一个红色钥匙扣",
+    "lost_time": "2026-05-14 14:30",
+    "random_numbers": [
+      7,
+      2
+    ]
+  },
+  "location_info": {
+    "current_location": "家中客厅",
+    "last_seen_location": "家中玄关",
+    "last_seen_time": "2026-05-14 08:00",
+    "reference_point": "最后见到位置",
+    "room_details": {
+      "room_type": "玄关",
+      "floor": 1,
+      "nearby_objects": [
+        "鞋柜",
+        "钥匙挂钩",
+        "包包"
+      ],
+      "furniture": [
+        "鞋柜",
+        "换鞋凳",
+        "穿衣镜"
+      ],
+      "recent_activity": "早上出门时拿了钥匙"
+    },
+    "search_history": [
+      "客厅沙发",
+      "卧室床头柜"
+    ]
+  },
+  "bazi": {
+    "year": "丙午",
+    "month": "癸巳",
+    "day": "戊子",
+    "hour": "己未"
+  },
+  "meihua": {
+    "method": "梅花易数",
+    "prediction": {
+      "predicted_direction": "正西",
+      "predicted_environment": "水边、缺口处、垃圾桶旁、废弃物堆；互卦提示：细长物品旁、通风口、管道、草木茂盛处；变卦提示：角落、柜子/箱子里、高处、石头/墙壁旁",
+      "find_probability": "很低",
+      "wuxing_relation": "体生用",
+      "actionable_advice": "物品可能已被移动或损坏，建议顺其自然。",
+      "score": 10
+    },
+    "hexagram": {
+      "mode": "报数起卦",
+      "upper_gua": {
+        "name": "艮 (Gen)",
+        "direction": "东北",
+        "element": "土",
+        "environment": "角落、柜子/箱子里、高处、石头/墙壁旁"
+      },
+      "lower_gua": {
+        "name": "兑 (Dui)",
+        "direction": "正西",
+        "element": "金",
+        "environment": "水边、缺口处、垃圾桶旁、废弃物堆"
+      },
+      "moving_line": 3
+    },
+    "ti_yong": {
+      "ti": {
+        "name": "艮 (Gen)",
+        "direction": "东北",
+        "element": "土",
+        "environment": "角落、柜子/箱子里、高处、石头/墙壁旁"
+      },
+      "yong": {
+        "name": "兑 (Dui)",
+        "direction": "正西",
+        "element": "金",
+        "environment": "水边、缺口处、垃圾桶旁、废弃物堆"
+      }
+    }
+  },
+  "rhyme": {
+    "method": "失物口诀",
+    "basedOn": "日柱地支：子",
+    "direction": "正北",
+    "location": "水边、阴暗处、低洼地",
+    "finder": "男性、长辈、或穿黑衣之人",
+    "timeHint": "子日、子时可能找到",
+    "score": 60
+  },
+  "poem": null,
+  "location_analysis": {
+    "method": "位置环境分析",
+    "reference_point": "最后见到位置",
+    "base_location": "家中玄关",
+    "time_gap": 6,
+    "room_analysis": {
+      "room_type": "玄关",
+      "bagua": "艮",
+      "element": "土",
+      "features": [
+        "鞋柜",
+        "钥匙挂钩",
+        "换鞋凳",
+        "穿衣镜"
+      ],
+      "nearby_objects": [
+        "鞋柜",
+        "钥匙挂钩",
+        "包包"
+      ],
+      "furniture": [
+        "鞋柜",
+        "换鞋凳",
+        "穿衣镜"
+      ],
+      "recent_activity": "早上出门时拿了钥匙"
+    },
+    "search_gap": [
+      "客厅沙发",
+      "卧室床头柜"
+    ],
+    "score": 70,
+    "item_description": "一串有三把钥匙的钥匙串，有一个红色钥匙扣"
+  },
+  "fused": {
+    "fused_direction": "正西",
+    "fused_environment": "水边、缺口处、垃圾桶旁、废弃物堆；互卦提示：细长物品旁、通风口、管道、草木茂盛处；变卦提示：角落、柜子/箱子里、高处、石头/墙壁旁；水边、阴暗处、低洼地；玄关内，靠近鞋柜、钥匙挂钩、换鞋凳、穿衣镜",
+    "fused_probability": "较低",
+    "fused_score": 40,
+    "methods_used": [
+      "梅花易数",
+      "失物口诀",
+      "位置环境分析"
+    ],
+    "direction_votes": {
+      "正西": 0.4,
+      "正北": 0.15,
+      "家中玄关": 0.3
+    },
+    "raw_results": {
+      "meihua": {
+        "method": "梅花易数",
+        "prediction": {
+          "predicted_direction": "正西",
+          "predicted_environment": "水边、缺口处、垃圾桶旁、废弃物堆；互卦提示：细长物品旁、通风口、管道、草木茂盛处；变卦提示：角落、柜子/箱子里、高处、石头/墙壁旁",
+          "find_probability": "很低",
+          "wuxing_relation": "体生用",
+          "actionable_advice": "物品可能已被移动或损坏，建议顺其自然。",
+          "score": 10
+        },
+        "hexagram": {
+          "mode": "报数起卦",
+          "upper_gua": {
+            "name": "艮 (Gen)",
+            "direction": "东北",
+            "element": "土",
+            "environment": "角落、柜子/箱子里、高处、石头/墙壁旁"
+          },
+          "lower_gua": {
+            "name": "兑 (Dui)",
+            "direction": "正西",
+            "element": "金",
+            "environment": "水边、缺口处、垃圾桶旁、废弃物堆"
+          },
+          "moving_line": 3
+        },
+        "ti_yong": {
+          "ti": {
+            "name": "艮 (Gen)",
+            "direction": "东北",
+            "element": "土",
+            "environment": "角落、柜子/箱子里、高处、石头/墙壁旁"
+          },
+          "yong": {
+            "name": "兑 (Dui)",
+            "direction": "正西",
+            "element": "金",
+            "environment": "水边、缺口处、垃圾桶旁、废弃物堆"
+          }
+        }
+      },
+      "rhyme": {
+        "method": "失物口诀",
+        "basedOn": "日柱地支：子",
+        "direction": "正北",
+        "location": "水边、阴暗处、低洼地",
+        "finder": "男性、长辈、或穿黑衣之人",
+        "timeHint": "子日、子时可能找到",
+        "score": 60
+      },
+      "poem": null,
+      "location": {
+        "method": "位置环境分析",
+        "reference_point": "最后见到位置",
+        "base_location": "家中玄关",
+        "time_gap": 6,
+        "room_analysis": {
+          "room_type": "玄关",
+          "bagua": "艮",
+          "element": "土",
+          "features": [
+            "鞋柜",
+            "钥匙挂钩",
+            "换鞋凳",
+            "穿衣镜"
+          ],
+          "nearby_objects": [
+            "鞋柜",
+            "钥匙挂钩",
+            "包包"
+          ],
+          "furniture": [
+            "鞋柜",
+            "换鞋凳",
+            "穿衣镜"
+          ],
+          "recent_activity": "早上出门时拿了钥匙"
+        },
+        "search_gap": [
+          "客厅沙发",
+          "卧室床头柜"
+        ],
+        "score": 70,
+        "item_description": "一串有三把钥匙的钥匙串，有一个红色钥匙扣"
+      }
+    }
+  },
+  "summary": "综合梅花易数、失物口诀、位置环境分析四种算法推演，您遗失的家门钥匙最有可能在正西方向。以家中玄关为基准点，综合置信度40%，寻回概率较低。建议：物品可能已被移动或损坏，建议顺其自然。"
+}

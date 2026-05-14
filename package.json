@@ -1,0 +1,41 @@
+{
+  "name": "yijing-find-lost-item",
+  "version": "3.0.0",
+  "description": "通过中国传统易经（梅花易数）原理，根据物品信息、丢失时间或随机数字，推演遗失物品的大致方位、所处环境及找回概率。",
+  "main": "main.js",
+  "bin": {
+    "yijing-find": "./main.js"
+  },
+  "scripts": {
+    "find": "node main.js find",
+    "validate": "node main.js validate",
+    "explain": "node main.js explain",
+    "test": "node main.js validate --configFile ./config.json && node main.js find --configFile ./config.json --output ./result.json && node main.js explain --resultFile ./result.json"
+  },
+  "keywords": [
+    "易经",
+    "梅花易数",
+    "寻物",
+    "八卦",
+    "五行",
+    "divination",
+    "yijing",
+    "lost-item"
+  ],
+  "author": "roy",
+  "license": "MIT",
+  "dependencies": {
+    "lunar-javascript": "^1.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/yijing-find-lost-item.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/yijing-find-lost-item/issues"
+  },
+  "homepage": "https://github.com/your-username/yijing-find-lost-item#readme"
+}

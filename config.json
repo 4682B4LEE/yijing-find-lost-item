@@ -1,0 +1,23 @@
+{
+  "item_name": "家门钥匙",
+  "request_time": "2026-05-14 14:30",
+  "item_material": "金属",
+  "lost_time": "2026-05-14 14:30",
+  "random_numbers": [7, 2],
+  "current_location": "家中客厅",
+  "last_seen_location": "家中玄关",
+  "last_seen_time": "2026-05-14 08:00",
+  "reference_point": "last_seen",
+  "door_direction": "朝南",
+  "room_details": {
+    "room_type": "玄关",
+    "floor": 1,
+    "nearby_objects": ["鞋柜", "钥匙挂钩", "包包"],
+    "furniture": ["鞋柜", "换鞋凳", "穿衣镜"],
+    "recent_activity": "早上出门时拿了钥匙"
+  },
+  "search_history": ["客厅沙发", "卧室床头柜"],
+  "item_description": "一串有三把钥匙的钥匙串，有一个红色钥匙扣",
+  "importance_level": "高",
+  "urgency_level": "中"
+}

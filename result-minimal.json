@@ -1,0 +1,159 @@
+{
+  "item_info": {
+    "item_name": "钱包",
+    "item_material": "不确定",
+    "item_element": "土",
+    "item_description": "未提供",
+    "lost_time": "2026-05-14 07:07"
+  },
+  "location_info": {
+    "current_location": "未提供",
+    "last_seen_location": "未提供",
+    "last_seen_time": "未提供",
+    "reference_point": "当前位置",
+    "room_details": {},
+    "search_history": []
+  },
+  "bazi": {
+    "year": "丙午",
+    "month": "癸巳",
+    "day": "戊子",
+    "hour": "丙辰"
+  },
+  "meihua": {
+    "method": "梅花易数",
+    "prediction": {
+      "predicted_direction": "东南",
+      "predicted_environment": "细长物品旁、通风口、管道、草木茂盛处；互卦提示：高处、金属物旁、圆形物体附近、公共场所；变卦提示：高处、金属物旁、圆形物体附近、公共场所",
+      "find_probability": "较高",
+      "wuxing_relation": "比和",
+      "actionable_advice": "物品可能就在你平时常放的地方，仔细找找即可。",
+      "score": 70
+    },
+    "hexagram": {
+      "mode": "时间起卦",
+      "upper_gua": {
+        "name": "巽 (Xun)",
+        "direction": "东南",
+        "element": "木",
+        "environment": "细长物品旁、通风口、管道、草木茂盛处"
+      },
+      "lower_gua": {
+        "name": "震 (Zhen)",
+        "direction": "正东",
+        "element": "木",
+        "environment": "木制品旁、会发出声音的地方、门窗附近、森林/草地"
+      },
+      "moving_line": 6
+    },
+    "ti_yong": {
+      "ti": {
+        "name": "震 (Zhen)",
+        "direction": "正东",
+        "element": "木",
+        "environment": "木制品旁、会发出声音的地方、门窗附近、森林/草地"
+      },
+      "yong": {
+        "name": "巽 (Xun)",
+        "direction": "东南",
+        "element": "木",
+        "environment": "细长物品旁、通风口、管道、草木茂盛处"
+      }
+    }
+  },
+  "rhyme": {
+    "method": "失物口诀",
+    "basedOn": "日柱地支：子",
+    "direction": "正北",
+    "location": "水边、阴暗处、低洼地",
+    "finder": "男性、长辈、或穿黑衣之人",
+    "timeHint": "子日、子时可能找到",
+    "score": 60
+  },
+  "poem": null,
+  "location_analysis": {
+    "method": "位置环境分析",
+    "reference_point": "当前位置",
+    "time_gap": null,
+    "room_analysis": null,
+    "search_gap": [],
+    "score": 50
+  },
+  "fused": {
+    "fused_direction": "东南",
+    "fused_environment": "细长物品旁、通风口、管道、草木茂盛处；互卦提示：高处、金属物旁、圆形物体附近、公共场所；变卦提示：高处、金属物旁、圆形物体附近、公共场所；水边、阴暗处、低洼地",
+    "fused_probability": "较高",
+    "fused_score": 61,
+    "methods_used": [
+      "梅花易数",
+      "失物口诀",
+      "位置环境分析"
+    ],
+    "direction_votes": {
+      "东南": 0.4,
+      "正北": 0.15
+    },
+    "raw_results": {
+      "meihua": {
+        "method": "梅花易数",
+        "prediction": {
+          "predicted_direction": "东南",
+          "predicted_environment": "细长物品旁、通风口、管道、草木茂盛处；互卦提示：高处、金属物旁、圆形物体附近、公共场所；变卦提示：高处、金属物旁、圆形物体附近、公共场所",
+          "find_probability": "较高",
+          "wuxing_relation": "比和",
+          "actionable_advice": "物品可能就在你平时常放的地方，仔细找找即可。",
+          "score": 70
+        },
+        "hexagram": {
+          "mode": "时间起卦",
+          "upper_gua": {
+            "name": "巽 (Xun)",
+            "direction": "东南",
+            "element": "木",
+            "environment": "细长物品旁、通风口、管道、草木茂盛处"
+          },
+          "lower_gua": {
+            "name": "震 (Zhen)",
+            "direction": "正东",
+            "element": "木",
+            "environment": "木制品旁、会发出声音的地方、门窗附近、森林/草地"
+          },
+          "moving_line": 6
+        },
+        "ti_yong": {
+          "ti": {
+            "name": "震 (Zhen)",
+            "direction": "正东",
+            "element": "木",
+            "environment": "木制品旁、会发出声音的地方、门窗附近、森林/草地"
+          },
+          "yong": {
+            "name": "巽 (Xun)",
+            "direction": "东南",
+            "element": "木",
+            "environment": "细长物品旁、通风口、管道、草木茂盛处"
+          }
+        }
+      },
+      "rhyme": {
+        "method": "失物口诀",
+        "basedOn": "日柱地支：子",
+        "direction": "正北",
+        "location": "水边、阴暗处、低洼地",
+        "finder": "男性、长辈、或穿黑衣之人",
+        "timeHint": "子日、子时可能找到",
+        "score": 60
+      },
+      "poem": null,
+      "location": {
+        "method": "位置环境分析",
+        "reference_point": "当前位置",
+        "time_gap": null,
+        "room_analysis": null,
+        "search_gap": [],
+        "score": 50
+      }
+    }
+  },
+  "summary": "综合梅花易数、失物口诀、位置环境分析四种算法推演，您遗失的钱包最有可能在东南方向。综合置信度61%，寻回概率较高。建议：物品可能就在你平时常放的地方，仔细找找即可。"
+}
